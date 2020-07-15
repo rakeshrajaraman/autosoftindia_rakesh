@@ -42,11 +42,11 @@
 	padding: 10px;
 	margin: 5px;
 	background-color: #fff;
-	border: 2px solid #604df4;
+	border: 2px solid #cacaca;
 }
 
 .datas {
-	background: linear-gradient(-25deg, #604df4 , #d4c2fd );
+	background: linear-gradient(-25deg, #949494 , #cacaca );
 }
 .datas h3{
 	color: #fff ;
@@ -58,15 +58,15 @@
 .datas a{
 	color: #fff ;
 	font-size: 17px;
-	background: #a287f9;
+	background: #9e9e9e;
 	font-weight: bold;
 } 
 .datas a:hover{
-	background-color: #bca4fc;
+	background-color: #bfbfbf;
 	color: #000;
 }
 .card {
-	background: radial-gradient(ellipse, #846af7 , #d4c2fd );
+	background: radial-gradient(ellipse, #949494 , #cacaca );
 }
 .card h5 {
 	color: #fff;
